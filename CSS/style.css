@@ -46,6 +46,7 @@ button{
     border-radius: 3px;
     margin: 10px 0px  10px;
     font-size: 15px;
+    padding: 10px;
     
 
 }
@@ -86,4 +87,17 @@ hr{
     border-radius: 100%;
     color: red;
     padding: 4px;
+}
+.target{
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    
+}
+.editorial{
+    background-color: rgb(30, 107, 207);
+
+}
+.purple{
+    background-color: blueviolet;
 }
