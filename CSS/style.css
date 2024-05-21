@@ -77,21 +77,21 @@ hr{
     margin: 20px 0;
  }
  .checked{
-    border: solid 1px green;
+    border: solid 2px green;
     border-radius: 100%;
     color: green; 
-    padding: 4px;   
+    padding: 4px 10px;   
 }
 .undone{
-    border: solid 1px rgb(170, 0, 0);
+    border: solid 2px rgb(170, 0, 0);
     border-radius: 100%;
     color: red;
-    padding: 4px;
+    padding: 4px 10px;
 }
 .target{
     border-radius: 20px;
     color: rgb(255, 255, 255);
-    padding: 5px;
+    padding: 5px 15px;
     
 }
 .editorial{
@@ -100,4 +100,16 @@ hr{
 }
 .purple{
     background-color: blueviolet;
+}
+.green{
+    background-color: rgb(17, 105, 39);
+}
+.orange{
+    background-color: orangered;
+}
+.pink{
+    background-color: rgb(187, 81, 98);
+}
+.yellow{
+    background-color: rgb(215, 252, 7);
 }
