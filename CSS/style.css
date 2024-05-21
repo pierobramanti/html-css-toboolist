@@ -5,8 +5,7 @@
 }
 header{
     background-color: white;
-    margin-left: 10px;
-    margin-top: 10px;
+
 }
 .Toboolist{
     display: inline-block;
@@ -18,4 +17,22 @@ header{
 }
 .alignmiddle{
     vertical-align: middle;
+}
+
+body{
+    background-color:rgb(221, 207, 207) ;
+}
+
+main{
+    margin: 30px 0;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+
+
+}
+.background-white{
+    background-color:rgb(255, 255, 255);
+   
 }
