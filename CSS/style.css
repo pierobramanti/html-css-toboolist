@@ -113,3 +113,6 @@ hr{
 .yellow{
     background-color: rgb(215, 252, 7);
 }
+.title{
+    font-weight: 800;
+}
